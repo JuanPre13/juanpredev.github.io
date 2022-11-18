@@ -24,7 +24,7 @@ module.exports = {
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/yashitanamdeo',
+      url: 'hhttps://codepen.io/juanpre1377',
     },
     {
       name: 'Instagram',
@@ -32,7 +32,7 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/',
+      url: 'https://twitter.com/juanprecr',
     },
   ],
 

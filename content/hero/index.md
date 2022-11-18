@@ -1,10 +1,10 @@
 ---
 title: 'Hello, my name is'
 name: 'Juan Prendas'
-subtitle: 'I am an Enthusiastic WebDev!'
-buttonText: 'Get In Touch'
+subtitle: "Let's grow your business with custom web development."
+buttonText: 'Start a conversation'
 ---
 
-I'm a Developer based in Costa Rica.
+Your brand deserves a great website to succeed!
 
-I enjoy working with amazing projects!
+I'm Juan Prendas, WedDev, Tico, and a geek fanatic.

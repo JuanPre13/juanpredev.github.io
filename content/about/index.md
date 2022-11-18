@@ -1,5 +1,5 @@
 ---
-title: 'About Me'
+title: "I'm the solution to your business's success."
 avatar: 'me.jpg'
 skills:
   - Coding
@@ -9,16 +9,14 @@ skills:
   - Mentoring
 ---
 
-Hello! I'm Juan Prendas a FullStack Dev, from Costa Rica, the happiest and the most beautiful country in the world.
+Howdy! I'm Juan Prendas, born and raised in Costa Rica, known as the happiest and number one eco-destination in the world. Some characteristics fit well with me: creativity, passion, trustworthiness, good communication, detail-oriented, debugging skills, and business sense. Which makes me the one to take your business to the next level.
 
-I am a creative, time punctual, dedicated, goal-oriented individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills, strong organizational skills, and meticulous attention to detail.
+I have 6 years of experience as a web developer. All these years I’ve been perfecting my skills and proficiency with different technologies such as WordPress and Drupal working with various programming languages like JavaScript, Python, and PHP. My everyday tools to make great work on your website business are Tailwind CSS, VueJS, and WordPress as Headless CMS.
 
-I have been developer from 6 years ago, with diferent technologies as a WordPress, Drupal with difererents programing lenguajes like JavaScript, Python and PHP.
-My favorit tools are TailwindCSS, VueJS, WordPress as Headless CMS to create amazing projects for personal sites and E-commerce platforms. 
- 
-I have strong knowladge user interfaces and user experience to create a balance between the software and the user flow.
+Another quality that makes me provide excellent results to every business I work with, is my knowledge of user Interface, user experience, and usability for knowledge management. All of them are essential to accomplish two fundamental tasks: Communicating information from the machine to the user and communicating information from the user to the machine.
 
-My favort hobie is be part of [WordCamp San Jose](https://sanjose.wordcamp.org/2022/) organization since 2018 and contribute to Open Source organizations, helping a lot of coworkers and friends to start this amazing word.
+After coding, my second passion is contributing; for that reason, since 2018, I’ve been volunteering at the local WordPress Community in San José, Costa Rica, where I give a hand to the WordCamp San José organization and local meetups.
 
+Now that you know more about me, let's schedule a session to see how to escalate your project.
 
 Here are a few of the other activities that I love to do!
