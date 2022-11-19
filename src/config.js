@@ -4,7 +4,7 @@ module.exports = {
     'Juanpre is an incoming Software Developer, based in Costa Rica, who loves learning new things and helping tech beginners.',
   siteKeywords:
     'Juan Prendas, Juan, Prendas, juanpredev, software engineer, web developer, javascript, python, fullstack, costarrican',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+  siteUrl: 'juanpre.dev',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
